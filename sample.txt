@@ -1,3 +1,4 @@
 Git commands even a monkey can understand
 A second line is added through clone.
 A third line added through folder test.
+Commit: to save the changes.
